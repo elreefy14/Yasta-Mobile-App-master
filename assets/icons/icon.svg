@@ -1,0 +1,15 @@
+<svg width="50" height="50" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- خلفية الزرار -->
+  <circle cx="50" cy="50" r="45" fill="#2c2c2c" />
+
+  <!-- 3 نقط متحركة -->
+  <circle cx="35" cy="50" r="2" fill="#ffffff">
+    <animate attributeName="r" values="4;6;4" dur="1s" begin="0s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="50" cy="50" r="2" fill="#ffffff">
+    <animate attributeName="r" values="4;6;4" dur="1s" begin="0.2s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="65" cy="50" r="2" fill="#ffffff">
+    <animate attributeName="r" values="4;6;4    " dur="1s" begin="0.4s" repeatCount="indefinite" />
+  </circle>
+</svg>

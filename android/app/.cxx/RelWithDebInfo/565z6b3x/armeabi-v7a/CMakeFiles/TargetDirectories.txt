@@ -1,0 +1,2 @@
+C:/Users/hammas/Documents/GitHub/Yasta-Mobile-App/android/app/.cxx/RelWithDebInfo/565z6b3x/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/hammas/Documents/GitHub/Yasta-Mobile-App/android/app/.cxx/RelWithDebInfo/565z6b3x/armeabi-v7a/CMakeFiles/rebuild_cache.dir
