@@ -10,6 +10,15 @@
     <string>We need access to your camera to upload photos</string>
     <key>NSPhotoLibraryUsageDescription</key>
     <string>We need access to your photo library to upload photos</string>
+    <key>NSMicrophoneUsageDescription</key>
+    <string>We need access to your microphone for voice chat features</string>
+    <key>NSUserNotificationsUsageDescription</key>
+    <string>We need to send you notifications about new messages and updates</string>
+    <key>NSAppTransportSecurity</key>
+    <dict>
+        <key>NSAllowsArbitraryLoads</key>
+        <true/>
+    </dict>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleDisplayName</key>
